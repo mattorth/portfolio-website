@@ -82,6 +82,7 @@ input, select, textarea {
 		-ms-overflow-style: scrollbar;
 	}
 
+
 	@media screen and (max-width: 480px) {
 
 		html, body {
@@ -8601,3 +8602,7 @@ input, select, textarea {
 			#wrapper.divided > .invert:first-child {
 				box-shadow: none !important;
 			}
+
+	#section-6 {
+		display: none;
+	}
